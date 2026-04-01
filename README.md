@@ -1,7 +1,7 @@
 - 👋 Hello. This is **@liu-yucheng**.
 - 👀 I’m interested in **programming**.
 - 🌱 I’m currently learning **machine learning for large language models**.
-- 💞️ I’m looking to collaborate on **artificial intelligence for math and natural science**.
+- 💞️ I’m looking to collaborate on **artificial intelligence for math and natural sciences**.
 - 📫 How to reach me **liu.r.yucheng@gmail.com**.
 
 <!---
